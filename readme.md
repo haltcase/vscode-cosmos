@@ -13,11 +13,11 @@ You can install this theme from the [Visual Studio Code Marketplace][market].
 
 ### Starfield style
 
-![screenshot - fsharp](https://raw.githubusercontent.com/citycide/vscode-cosmos/master/.media/starfield-nim.png)
+![screenshot - fsharp](https://raw.githubusercontent.com/citycide/vscode-cosmos/master/.media/starfield-fsharp.png)
 
-![screenshot - javascript](https://raw.githubusercontent.com/citycide/vscode-cosmos/master/.media/starfield-markdown.png)
+![screenshot - javascript](https://raw.githubusercontent.com/citycide/vscode-cosmos/master/.media/starfield-js.png)
 
-![screenshot - markdown](https://raw.githubusercontent.com/citycide/vscode-cosmos/master/.media/starfield-js.png)
+![screenshot - markdown](https://raw.githubusercontent.com/citycide/vscode-cosmos/master/.media/starfield-markdown.png)
 
 ![screenshot - pwsh-terminal](https://raw.githubusercontent.com/citycide/vscode-cosmos/master/.media/starfield-pwsh-terminal.png)
 
@@ -25,11 +25,11 @@ You can install this theme from the [Visual Studio Code Marketplace][market].
 
 ### Supernova style
 
-![screenshot - fsharp](https://raw.githubusercontent.com/citycide/vscode-cosmos/master/.media/supernova-nim.png)
+![screenshot - fsharp](https://raw.githubusercontent.com/citycide/vscode-cosmos/master/.media/supernova-fsharp.png)
 
-![screenshot - javascript](https://raw.githubusercontent.com/citycide/vscode-cosmos/master/.media/supernova-markdown.png)
+![screenshot - javascript](https://raw.githubusercontent.com/citycide/vscode-cosmos/master/.media/supernova-js.png)
 
-![screenshot - markdown](https://raw.githubusercontent.com/citycide/vscode-cosmos/master/.media/supernova-js.png)
+![screenshot - markdown](https://raw.githubusercontent.com/citycide/vscode-cosmos/master/.media/supernova-markdown.png)
 
 ![screenshot - pwsh-terminal](https://raw.githubusercontent.com/citycide/vscode-cosmos/master/.media/supernova-pwsh-terminal.png)
 
