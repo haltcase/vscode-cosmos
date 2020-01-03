@@ -56,5 +56,5 @@
     "color": "#4b5b64",
     "theme": "dark"
   },
-  "icon": "./icon.png"
+  "icon": "icon.png"
 }
