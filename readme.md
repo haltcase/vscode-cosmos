@@ -1,4 +1,4 @@
-# material cosmos &middot; ![version](https://flat.badgen.net/v/citycide.theme-material-cosmos)
+# material cosmos &middot; ![version](https://flat.badgen.net/vs-marketplace/v/citycide.theme-material-cosmos)
 
 > Through the cosmos, darkly: a set of dark, flat, material-esque themes for Visual Studio Code.
 

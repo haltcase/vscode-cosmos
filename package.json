@@ -47,8 +47,8 @@
   },
   "badges": [
     {
-      "url": "https://flat.badgen.net/v/citycide.theme-material-cosmos",
-      "href": "https://marketplace.visualstudio.com/items/citycide.theme-material-cosmos",
+      "url": "https://flat.badgen.net/vs-marketplace/v/citycide.theme-material-cosmos",
+      "href": "https://marketplace.visualstudio.com/items?itemName=citycide.theme-material-cosmos",
       "description": "Extension version"
     }
   ],
