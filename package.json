@@ -1,0 +1,60 @@
+{
+  "name": "theme-material-cosmos",
+  "displayName": "Material Cosmos",
+  "description": "Through the cosmos, darkly: a set of dark, flat, material-esque themes.",
+  "version": "1.0.0",
+  "publisher": "citycide",
+  "homepage": "https://github.com/citycide/vscode-cosmos",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/citycide/vscode-cosmos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/citycide/vscode-cosmos/issues"
+  },
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Cosmos: Starfield",
+        "uiTheme": "vs-dark",
+        "path": "./themes/starfield.color-theme.json"
+      },
+      {
+        "label": "Material Cosmos: Supernova",
+        "uiTheme": "vs-dark",
+        "path": "./themes/supernova.color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "material",
+    "dark",
+    "flat",
+    "space",
+    "supernova",
+    "starfield",
+    "bold"
+  ],
+  "scripts": {
+    "deploy": "vsce publish -m 'chore(version): %s'"
+  },
+  "badges": [
+    {
+      "url": "https://flat.badgen.net/v/citycide.theme-material-cosmos",
+      "href": "https://marketplace.visualstudio.com/items/citycide.theme-material-cosmos",
+      "description": "Extension version"
+    }
+  ],
+  "galleryBanner": {
+    "color": "#4b5b64",
+    "theme": "dark"
+  },
+  "icon": "./icon.png"
+}
